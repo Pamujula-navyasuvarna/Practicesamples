@@ -1,0 +1,21 @@
+Tasks:
+
+1.Command to get cpu info using cat command 
+- cat /proc/cpuinfo
+2.Understand the linux file directory system
+3.Alternate command to get RAM information 
+- cat /proc/meminfo
+4.Command to get Storage Information 
+- df -h
+5.Command to see running processors on linux system 
+- top 
+6.Command to create a folder inside a folder 
+- mkdir -p foder1/folder2 or mkdir folder1/folder2
+7.Command to append a data to a file which are present in folder1 
+- cat file2 >> folder1/file
+8.Command to copy the data from one file to another file 
+- cp file1 file2
+9.Command to rename a file 
+- mv source_file new_name
+10.Diff between > & >> in cat command 
+- ">" it is used to overwrite existing data with new data in a file and ">>" is used to append data means it will add data to existing data.
