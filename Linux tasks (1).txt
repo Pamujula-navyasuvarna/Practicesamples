@@ -18,4 +18,6 @@ Tasks:
 9.Command to rename a file 
 - mv source_file new_name
 10.Diff between > & >> in cat command 
+
 - ">" it is used to overwrite existing data with new data in a file and ">>" is used to append data means it will add data to existing data.
+11. cat > filename - it is use to rewrite data inside a file
