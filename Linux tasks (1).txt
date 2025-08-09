@@ -21,3 +21,4 @@ Tasks:
 
 - ">" it is used to overwrite existing data with new data in a file and ">>" is used to append data means it will add data to existing data.
 11. cat > filename - it is use to rewrite data inside a file
+12. chowm is used to change the owner permissions
